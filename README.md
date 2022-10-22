@@ -121,20 +121,20 @@ Languages and Tools
 <!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
 
 
-  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary><br>
     <p align="center"> <a href="https://metrics.lecoq.io/ritwikdalmia"><img src="https://metrics.lecoq.io/ritwikdalmia" alt="ritwikdalmia" /></a> </p>
 
 
 <!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
 
-  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Trophy</b></summary>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikdalmia" alt="ritwikdalmia" /></a> </p>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Trophy</b></summary><br>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikdalmia&column=5&margin-w=15&margin-h=15" alt="ritwikdalmia" /></a> </p>
 
 
 <!-- ------------------------------------------------------Most Used Languages----------------------------------------------------- -->
 
 
-  <summary><b>🛠️&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary><br>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikdalmia)](https://github.com/ritwikdalmia/github-readme-stats/>
     </p>
@@ -143,7 +143,7 @@ Languages and Tools
 <!-- ------------------------------------------------------GitHub Stats----------------------------------------------------- -->
 
 
-  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary><br>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikdalmia&layout=compact)](https://github.com/ritwikdalmia/github-readme-stats)"/>
     </p>
@@ -151,7 +151,7 @@ Languages and Tools
 
 <!-- ------------------------------------------------------GitHub Streak----------------------------------------------------- -->
 
-  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Streak</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Streak</b></summary><br>
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=crescentpartha&theme=radical" alt="ritwikdalmia"/>
     </p>
@@ -159,7 +159,7 @@ Languages and Tools
 <!-- ------------------------------------------------------Activity Graph----------------------------------------------------- -->
 
 
-  <summary><b>🛠️&nbsp;&nbsp;ritwik dalmia's&nbsp;Activity&nbsp;Graph</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;ritwik dalmia's&nbsp;Activity&nbsp;Graph</b></summary><br>
 
   [![ritwik dalmia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ritwikdalmia&theme=react-dark)](https://github.com/ritwikdalmia/github-readme-activity-graph)
 
