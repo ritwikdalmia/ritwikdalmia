@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9781e6ebb5d6bf36ea29b567e00392a931c6837b3bef4c8576294c2637a8a662/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69745f6c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465"><img alt="PhP" src="https://camo.githubusercontent.com/9781e6ebb5d6bf36ea29b567e00392a931c6837b3bef4c8576294c2637a8a662/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69745f6c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/php-F7931E?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a> 
+
 
 <!---
 ritwikdalmia/ritwikdalmia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
