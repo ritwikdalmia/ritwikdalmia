@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- --------------------------------------------------Profile Views---------------------------------------------------- -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikdalmia&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikdalmia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritwikdalmia&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikdalmia" /> </p>
 
 <!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
 
@@ -78,52 +78,49 @@ You can click the Preview link to take a look at your changes.
 
 <!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary>
     <p align="center"> <a href="https://metrics.lecoq.io/ritwikdalmia"><img src="https://metrics.lecoq.io/ritwikdalmia" alt="ritwikdalmia" /></a> </p>
-</details>
+
 
 <!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
 
-<details>
   <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Trophy</b></summary>
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikdalmia" alt="ritwikdalmia" /></a> </p>
-</details>
+
 
 <!-- ------------------------------------------------------Most Used Languages----------------------------------------------------- -->
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages</b></summary>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwikdalmia&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritwikdalmia"/>
     </p>
-</details>
+
 
 <!-- ------------------------------------------------------GitHub Stats----------------------------------------------------- -->
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Stats</b></summary>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ritwikdalmia&show_icons=true&locale=en&theme=radical" alt="ritwikdalmia"/>
     </p>
-</details>
+
 
 <!-- ------------------------------------------------------GitHub Streak----------------------------------------------------- -->
 
-<details>
   <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Streak</b></summary>
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=crescentpartha&theme=radical" alt="ritwikdalmia"/>
     </p>
-</details>
 
 <!-- ------------------------------------------------------Activity Graph----------------------------------------------------- -->
 
-<details>
+
   <summary><b>🛠️&nbsp;&nbsp;ritwik dalmia's&nbsp;Activity&nbsp;Graph</b></summary>
 
   [![ritwik dalmia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ritwikdalmia&theme=react-dark)](https://github.com/ritwikdalmia/github-readme-activity-graph)
-</details>
+
 
 <!-- --- -->
 
